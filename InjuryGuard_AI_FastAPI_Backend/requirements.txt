@@ -3,4 +3,4 @@ sqlmodel
 python-multipart
 torch
 torchvision
-pillow
+pillowreportlab
